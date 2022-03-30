@@ -1,11 +1,22 @@
+<p>
+  <img src="https://www.americaspromise.org/sites/default/files/d8/styles/hero_image/public/2018-06/Math.png?itok=wPObeIUz" alt="baner" border="0" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/ozzicl13/">Instagram</a> •
+  <a href="https://www.facebook.com/senior.coelho">Facebook</a> •
+  <!-- <a href="">Blog</a> -->
+</p>
+
+---
+
 <h1 align="left">Hi 👋, I'm Oziel Senior</h1>
 <h3 align="left">A passionate Machine Learning Developer from Brazil (Manaus-AM)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ozseniorcl13&label=Profile%20views&color=0e75b6&style=flat" alt="ozseniorcl13" /> </p>
-
 - I currently work at [UFAM](https://ufam.edu.br)
-
 - I'm learning at the moment **Data Science (scikit-learn, keras, statistic, data visualization and analysis)**
+
+--
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
